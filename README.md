@@ -5,7 +5,7 @@
 
 The continents including Oceania, Europe, Asia, America, and Africa are determined by the location of the main authors’ research institute.
 
-**The sensor types** are classified according to the electromagnetic spectrum from short to long wavelength, including CT, RGB, MS, HS, Flu, SIF, LIF, Thermal, LiDAR, and SAR. 
+**The sensor types** are classified according to the electromagnetic spectrum from short wavelength to long wavelength, including CT, RGB, MS, HS, Flu, SIF, LIF, Thermal, LiDAR, and SAR. 
 
 **The platforms** are grouped into three categories, including Ground-based, Airborne, and Spaceborne, referring to Jin et al. (2021). In addition, considering that many studies involve more than one type of sensor and platform, we have included new categories that are multi-sensors and multi-platforms. Some sensors only appear in very few articles, which we classify as “Others”, such as LED light wavelengths (Huang et al., 2020).
 
