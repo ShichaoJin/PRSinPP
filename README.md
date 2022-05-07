@@ -1,5 +1,6 @@
 # PRSinPP
 ## A supllenmentary table that contains 2972 filtered papers for analysis.
+## The specific categorizing criteria as shown below
 
 
 The continents including Oceania, Europe, Asia, America, and Africa are determined by the location of the main authors’ research institute.
