@@ -4,7 +4,7 @@
 
 The continents including Oceania, Europe, Asia, America, and Africa are determined by the location of the main authors’ research institute.
 
-The sensor types are classified according to the electromagnetic spectrum from short to long wavelength, including CT, RGB, MS, HS, Flu, SIF, LIF, Thermal, LiDAR, and SAR. 
+The *sensor types* are classified according to the electromagnetic spectrum from short to long wavelength, including CT, RGB, MS, HS, Flu, SIF, LIF, Thermal, LiDAR, and SAR. 
 
 The Platforms are grouped into three categories, including Ground-based, Airborne, and Spaceborne, referring to Jin et al. (2021). In addition, considering that many studies involve more than one type of sensor and platform, we have included new categories that are multi-sensors and multi-platforms. Some sensors only appear in very few articles, which we classify as “Others”, such as LED light wavelengths (Huang et al., 2020).
 
@@ -23,6 +23,7 @@ Notably, an article can be categorized into different types using different cate
 
 ## References:
 Jin, S., Sun, X., Wu, F., Su, Y., Li, Y., Song, S., Xu, K., Ma, Q., Baret, F., Jiang, D., Ding, Y., & Guo, Q. (2021). Lidar sheds new light on plant phenomics for plant breeding and management: Recent advances and future prospects. ISPRS Journal of Photogrammetry and Remote Sensing, 171, 202-223
+
 Huang, L., Xiao, Y., Ran, J., Wei, L., Li, Z., Li, Y., Zhang, X., Liao, L., Wang, D., Zhao, X., Xiao, Q., & Guo, Y. (2020). Drought tolerance of faba bean (Vicia faba L.) can be improved by specific LED light wavelengths. Photosynthetica, 58, 1-13
 Dhondt, S., Wuyts, N., & Inze, D. (2013). Cell to whole-plant phenotyping: the best is yet to come. Trends in Plant Science, 18, 428-439
 
