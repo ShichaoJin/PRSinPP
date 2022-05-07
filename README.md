@@ -1,5 +1,5 @@
 # PRSinPP
-## A supllenmentary table that contains 2972 filtered papers for analysis.
+## A supplementary table that contains 2972 filtered papers for analysis.
 ## The specific categorizing criteria as shown below
 
 
